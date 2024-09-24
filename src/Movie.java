@@ -15,4 +15,9 @@ public class Movie {
         System.out.println("Age: " + age);
 
     }
+    public static void makePopcorn(){
+        for (int i = 0; i < 10; i++){
+            System.out.println("POP");
+        }
+    }
 }
