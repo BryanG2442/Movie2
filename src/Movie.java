@@ -4,6 +4,9 @@ public class Movie {
     static String birthday = "12/2/31";
     static boolean adOptIn = false;
     static int age = 78;
+
+    //test
+
     public static void main(String[] args){
         System.out.println("User name: " + userName);
         System.out.println("Password: " + password);
